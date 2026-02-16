@@ -1,0 +1,8 @@
+{
+  "name": "MagiCal - AI Calorie Tracker deploy",
+  "description": "A magical, liquid-style calorie tracker using Gemini AI for visual and voice food logging, supporting English and Arabic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
